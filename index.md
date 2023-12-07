@@ -2,7 +2,9 @@
 # Nathan Pierce Real's Portfolio
 
 I am a computer engineering major at CSUF and I am planning on graduating in 2027.
+
 https://github.com/realnathanpierce
+
 ## Favorite CPSC 120L Labs
 
 Lab 4, part 1
